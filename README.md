@@ -6,7 +6,7 @@ A fun and interactive Random Joke Generator that fetches jokes from an API and d
 
 🚀 Live Demo
 
-🔗 Check it out here
+[🔗 Check it out here](https://velvety-lollipop-68d701.netlify.app/)
 
 🎯 Features
 
